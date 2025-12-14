@@ -1,0 +1,8 @@
+streamlit
+random
+math
+statistics
+datetime
+matplotlib.pyplot
+numpy
+pandas
